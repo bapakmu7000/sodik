@@ -1,0 +1,2 @@
+# sodik
+Hanya mencoba saja
